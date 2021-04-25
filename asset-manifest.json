@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sieuthimini/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/sieuthimini/static/js/main.66baf635.chunk.js",
+    "main.js.map": "/sieuthimini/static/js/main.66baf635.chunk.js.map",
+    "runtime-main.js": "/sieuthimini/static/js/runtime-main.1c12a04b.js",
+    "runtime-main.js.map": "/sieuthimini/static/js/runtime-main.1c12a04b.js.map",
+    "static/js/2.d99e3f55.chunk.js": "/sieuthimini/static/js/2.d99e3f55.chunk.js",
+    "static/js/2.d99e3f55.chunk.js.map": "/sieuthimini/static/js/2.d99e3f55.chunk.js.map",
+    "static/js/3.35d9ff6f.chunk.js": "/sieuthimini/static/js/3.35d9ff6f.chunk.js",
+    "static/js/3.35d9ff6f.chunk.js.map": "/sieuthimini/static/js/3.35d9ff6f.chunk.js.map",
+    "index.html": "/sieuthimini/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/sieuthimini/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d99e3f55.chunk.js.LICENSE.txt": "/sieuthimini/static/js/2.d99e3f55.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sieuthimini/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c12a04b.js",
+    "static/js/2.d99e3f55.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.66baf635.chunk.js"
+  ]
+}
